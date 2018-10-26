@@ -10,11 +10,11 @@ O intuito é utilizar de sua criatividade, para resolver os desafios propostos p
 
 ## O Desafio
 
-### O que o mundo precisa agora é..."
+### "O que o mundo precisa agora é..."
 Os moradores da Terra precisam de muitas coisas: comida, água, ar puro, abrigos e tantas outras coisas – a lista é longa e diversificada. Quais são essas coisas? O que precisa para sustentar e melhorar a vida na Terra para todos nós habitantes? E o que iremos precisar, eventualmente, em outros planetas?
 Desafios nesta categoria serão atacar em problemas que afetam aspectos importantes de vida neste mundo e ou em outros, e interpretar dados da NASA e conceitos para criativamente ajudar a buscar soluções.
 
-### Olhando globalmente (Analise e/ou exiba dados para comunicar descobertas interessantes ou melhorar a compreensão pública do nosso planeta)
+### "Olhando globalmente (Analise e/ou exiba dados para comunicar descobertas interessantes ou melhorar a compreensão pública do nosso planeta)"
 
 #### Experiência 
 Com o aplicativo GLOBE Observer, a NASA coleta dados de cientistas cidadãos em todo o mundo que estão observando as nuvens, os habitats dos mosquitos e a cobertura da terra. Esses dados têm o potencial de serem exibidos ou usados em conjunto com os dados de satélite da NASA para identificar ou comunicar informações e para educar o público sobre o planeta Terra.
