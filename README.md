@@ -10,10 +10,8 @@ O intuito é utilizar de sua criatividade, para resolver os desafios propostos p
 
 ## O Desafio
 
-São dados 6 (seis) desafios e os participantes podem escolher qual seguir.
-
-### O NASA4YOU escolheu o desafio: "4 - O que o mundo precisa agora é..."
-"Os moradores da Terra precisam de muitas coisas: comida, água, ar puro, abrigos e tantas outras coisas – a lista é longa e diversificada. Quais são essas coisas? O que precisa para sustentar e melhorar a vida na Terra para todos nós habitantes? E o que iremos precisar, eventualmente, em outros planetas?
+### O que o mundo precisa agora é..."
+Os moradores da Terra precisam de muitas coisas: comida, água, ar puro, abrigos e tantas outras coisas – a lista é longa e diversificada. Quais são essas coisas? O que precisa para sustentar e melhorar a vida na Terra para todos nós habitantes? E o que iremos precisar, eventualmente, em outros planetas?
 Desafios nesta categoria serão atacar em problemas que afetam aspectos importantes de vida neste mundo e ou em outros, e interpretar dados da NASA e conceitos para criativamente ajudar a buscar soluções.
 
 ### Olhando globalmente (Analise e/ou exiba dados para comunicar descobertas interessantes ou melhorar a compreensão pública do nosso planeta)
@@ -49,6 +47,9 @@ https://science.nasa.gov/earth-science/earth-science-data, descreve várias font
 - NASA Earthdata Search: https://search.earthdata.nasa.gov/, permite pesquisar, descobrir, visualizar, refinar e acessar os dados da NASA Earth Observation.
 
 ## Nossa equipe: NASA4YOU
+
+### Proposta
+A NASA4YOU é uma plataforma que extrai e organiza informações do acervo da NASA através de algumas integrações, para gerar uma interface simples e amigável que, utilizando a navegação e as preferências do usuário, oferece uma jornada personalizada e atraente. “NASA for Dummies”.
 
 ![enter image description here](assets/docs/nasa-space-apps-challenge-terceiro-lugar.png)
 
