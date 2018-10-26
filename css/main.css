@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-image: url("../assets/images/N4U-Hero-01.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+ul li a {
+  font-size: 12px;
+}
+
+.main-text {
+  margin-top: 20vh;
+  padding-bottom: 5vh;
+}
+
+.main-btn {
+  color: black;
+}
+
+.type {
+  border: 0;
+  border-radius: 50%;
+  padding: 10px;
+  width: 70px;
+  background-color: black; 
+}
+
+.type span {
+  font-size: 35px;
+  margin: 0 auto;
+  color: white;
+}
+
+.all-boxes {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.all-boxes h1 {
+  color: white;
+  font-weight: 800;
+}
+
+.all-boxes h2 {
+  font-size: 30px;
+  color: white;
+  padding: 3px 0;
+}
+
+.nasadata {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 20px 30px;
+  margin: 5px;
+}
+
+.nasadata h1 { 
+  text-transform: uppercase;
+  font-size: 20px;
+  color: white;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.nasadata p { 
+  font-size: 14px;
+  color: black;
+}
+
+.nasadata strong {
+  text-transform: uppercase;
+  color: black;
+  align-self: flex-end;
+}
+
+.nasadata img {
+  height: 50%;
+  width: 50%;
+}
+
+.ocean-content {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 20px 30px;
+  margin: 5px;
+}
